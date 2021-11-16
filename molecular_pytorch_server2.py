@@ -1,5 +1,3 @@
-# TODO：保存预测值和真实值，画图，计算MRSE
-
 import pandas
 import pandas as pd
 import math
